@@ -10,7 +10,7 @@ Moyck 的个人博客
 
 ### 最新
 
-* [Recorder251 - 我的99个APP开发进度(3)](http://www.moyck.com/articles/2019/12/11/1576055493187.html)
+* [Recorder251 - 我的 99 个 APP 开发进度 (3)](http://www.moyck.com/articles/2019/12/11/1576055493187.html)
 * [Android 二维码/条形码的识别或生成](http://www.moyck.com/articles/2019/11/29/1575025314278.html)
 * [关于Moyck](http://www.moyck.com/articles/2019/11/29/1575013596580.html)
 * [Android常用的蓝牙，GPS，网络等状态检测方法汇总](http://www.moyck.com/articles/2019/10/14/1571048467278.html)
